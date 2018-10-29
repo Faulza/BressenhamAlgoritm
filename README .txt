@@ -1,4 +1,3 @@
-# AlgoritmaBressenham
 Implementasi Algoritma Bresenham
 
 Dalam project ini menggunakan Aplikasi CodeBlock sebagai tempat penulisan codingnya.
@@ -27,6 +26,6 @@ Langkah-langkah pembentukan garis berdasarkan algoritma Bressenham adalah:
       -  bila  pk < 0   maka titik selanjutnya adalah:
 		(xk+1, yk)  dan  pk+1 = pk + 2dy
       -  bila tidak, titik selanjutnya adalah: 
-		(xk+1, yk+1)  dan  pk+1 = pk + 2dy â€“ 2dx
+		(xk+1, yk+1)  dan  pk+1 = pk + 2dy – 2dx
 6.   Ulangi nomor 5 untuk menentukan posisi pixel berikutnya, sampai 
-      x = x1  atau  y = y1
+      x = x1  atau  y = y1.
